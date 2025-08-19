@@ -1,6 +1,6 @@
 # Simple Weather App (Next.js App Router)
 
-A small weather application built with **Next.js (App Router)** for a take‑home assignment.  
+A small weather application built with **Next.js (App Router)** .  
 It fetches current weather from **OpenWeatherMap** and demonstrates safe API key handling via a Next.js API Route.
 
 ## Features
